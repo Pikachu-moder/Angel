@@ -1,4 +1,4 @@
-FROM fusuf/whatsasena:latest
+ByFROM fusuf/whatsasena:latest
 
 RUN git clone https://github.com/pikachu-moder/Angel /root/WhatsAsenaDuplicated
 WORKDIR /root/WhatsAsenaDuplicated/
